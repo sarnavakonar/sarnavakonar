@@ -13,7 +13,7 @@
 ---
 
 ## 🔗 Connect with me 
-
-[![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/SarnavaKonar)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/sarnava-konar-078219115/)
-[![Instagram](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=instagram)](https://instagram.com/sarnava_konar/)
+  
+  [![Twitter Follow](https://img.shields.io/badge/Twitter-black?style=flat&logo=twitter&labelColor=black)](https://twitter.com/SarnavaKonar)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/sarnava-konar-078219115)
+  [![Instagram](https://img.shields.io/badge/Instagram-yellow?style=flat&logo=instagram&labelColor=yellow)](https://instagram.com/sarnava_konar)
