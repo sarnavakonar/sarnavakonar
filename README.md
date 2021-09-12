@@ -8,13 +8,13 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/SarnavaKonar"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" height="25"/></a> 
+  <a href="https://twitter.com/SarnavaKonar"><img src="https://www.freeiconspng.com/thumbs/logo-twitter-png/blue-logo-twitter-birds-emblem-3.png" height="25"/></a> 
   &nbsp&nbsp
-  <a href="https://www.linkedin.com/in/sarnava-konar-078219115"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="25"/></a> 
+  <a href="https://www.linkedin.com/in/sarnava-konar-078219115"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="25"/></a> 
   &nbsp&nbsp
-  <a href="https://instagram.com/sarnava_konar"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" height="25"/></a> 
+  <a href="https://instagram.com/sarnava_konar"><img src="https://pbs.twimg.com/media/EeLBSNQXsAA3Q5o.png" height="25"/></a> 
   &nbsp&nbsp
-  <a href="https://www.reddit.com/user/sarnava"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" height="25"/></a> 
+  <a href="https://www.reddit.com/user/sarnava"><img src="https://www.reddiquette.com/wp-content/uploads/2020/09/What-Is-The-Reddit-Logo-Called.png" height="25"/></a> 
 </p>
 </br>
 
@@ -25,7 +25,7 @@
 * 💻 I'm an Android Engineer from India 🇮🇳
 * 🎨 Latest project is a full-stack kotlin application including android app + backend apis + database. Check here -> [Gamebaaz](https://github.com/sarnavakonar/Gamebaaz)
 * 🎓 I'm a Computer Science graduate (2k18 pass-out)
-* 🏟️ I'm very much into sports like football ⚽, f1 🏎️, tennis 🎾
+* 🏟️ I'm very much into sports like football ⚽, f1 🏎️, tennis 🎾, chess ♞
 * 🗣️ I know a litte spanish 🇪🇸 *como estas mis amigos*
 * 🎮 I also play games like fifa, gta, cod and more
 * 💰 I'm also into cryptocurrency like <img src="https://cryptocompetitions.online/wp-content/uploads/2021/06/blogo.png" height="20"/> <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/v1476103033/xfu7exy5y6rkscsm1kns.png" height="20"/> <img src="https://upload.wikimedia.org/wikipedia/en/5/53/Shiba_Inu_coin_logo.png" height="20"/> <img src="https://assets.coingecko.com/coins/images/8284/large/luna1557227471663.png?1567147072" height="20"/>
